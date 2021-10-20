@@ -1,0 +1,112 @@
+
+
+.hi{
+  width:30px;
+  height:30px;
+  border-radius: 30px;
+}
+#title{
+  font-family: 'ubuntu', sans-serif;
+  font-weight:700 ;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+background-color: #ff4c68;
+  margin-top: 0;
+  color:#FFF;
+
+}
+.container-flui{
+  padding:1% 5%;
+}
+.navbar{
+  padding:0;
+}
+.con{
+  padding:0;
+}
+
+.tittlep{
+  margin-top: 50px;
+  margin-left: 30px;
+  padding-top: 20px;
+}
+.imgtittle{
+  border-radius: 80px;
+  padding: 20px 0;
+
+}
+#tittleone{
+  background-color: #fff;
+  font-family: 'ubuntu', sans-serif;
+  font-weight:700 ;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+  margin-bottom:30px;
+
+}
+.imgtittle1{
+  width:400px;
+  border-radius: 80px;
+  padding: 20px 0;
+  margin-top: 60px;
+
+}
+#tittletwo{
+  font-family: 'ubuntu', sans-serif;
+  font-weight:700 ;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: center;
+background-color: #ff4c68;
+  margin-top: 0;
+  color:#fff;
+
+}
+.imgtittle2{
+  width:350px;
+  border-radius: 80px;
+    padding: 20px 0;
+}
+.featurebox{
+  text-align: center;
+  margin:100px 0;
+
+}
+.fas{
+color:#FFA6D5;
+padding-bottom: 20px;
+}
+h5{
+  font-family:'Montserrat',cursive;
+  font-weight:bolder;
+ }
+
+.prop{
+  font-family:"ubuntu";
+  font-weight: 500;
+}
+.fas:hover{
+  color:#ff4c68;
+}
+.tes{
+  width:15%;
+  height:200px;
+
+  border-radius:100%;
+  margin-bottom: 50px;
+}
+#testimonals{
+text-align: center;
+background-color: #ff4c68;
+color:#fff;
+}
+h2{
+  font-family: "Montserrat-bold";
+  line-height: 1.5;
+  font-weight: 900;
+  font-size: 3rem;
+  padding: 2% 5%;
+  margin:50px 50px 0;
+}
