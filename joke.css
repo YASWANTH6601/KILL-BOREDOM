@@ -1,0 +1,32 @@
+body{
+  background-color:pink;
+    text-align: center;
+}
+.container{
+  text-align: center;
+  margin:0 auto;
+  width:50%;
+
+}
+h1{
+  color:white;
+  margin:10% 0;
+  font-family:"Ubuntu";
+font-weight: 900;
+}
+.joke{
+  background-color: white;
+  border-radius: 16px;
+  min-height: 300px;
+
+} p{
+  text-align:inherit;
+  padding:10% 5%;
+  font-size: 1.5rem;
+  min-height: 300px;
+
+}
+button{
+  margin:1% 1.5%;
+
+}
