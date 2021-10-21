@@ -5,18 +5,18 @@ body{
 .container{
   text-align: center;
   margin:0 auto;
-  width:80%;
+  width:70%;
 
 }
 h1{
   color:white;
-  margin:8% 0;
+  margin:6% 0;
   font-family:"Ubuntu";
 font-weight: 900;
 }
 .joke{
   background-color: white;
-  border-radius: 16px;
+  border-radius: 20px;
   min-height: 300px;
 
 
