@@ -1,11 +1,15 @@
-.container {
-  width: 70%;
-  margin: auto;
+.container-fluid {
+  width: 90%;
+
+
   text-align: center;
 }
 .dice {
   text-align: center;
   display: inline-block;
+  padding: 5%;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 body {
   background-color: pink;
@@ -24,11 +28,12 @@ p {
   font-family: "Montserrat";
 }
 img {
-  width: 80%;
+  width: 100%;
 }
 button{
   margin:5%;
   margin-bottom: 2%;
+  margin-top: 1%;
 }
 .back{
   margin-top: 0;
