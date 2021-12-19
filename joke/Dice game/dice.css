@@ -1,0 +1,25 @@
+body{
+  background-color: pink;
+  text-align: center;
+
+
+}
+img{
+  width:50%;
+  border-radius: 30%;
+
+}
+.btn{
+  margin:6% 5%;
+
+}
+.div1{
+  margin-top: 5%;
+}
+h1{
+  font-family: Ubuntu;
+  font-weight: 900;
+  font-size: 3rem;
+  color:white;
+  margin-top: 2%;
+}
